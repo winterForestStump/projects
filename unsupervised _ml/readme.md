@@ -1,1 +1,1 @@
-This is a small unsupervised machine learning project
+This is a small clustering project
